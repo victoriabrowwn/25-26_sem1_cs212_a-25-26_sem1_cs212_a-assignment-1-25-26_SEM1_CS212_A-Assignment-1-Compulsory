@@ -8,4 +8,4 @@ To complete this assignment make sure all the tests pass.
 
 # Note --- Make sure you read this
 
-There are hint s to guide you.
+There are hints to guide you.
